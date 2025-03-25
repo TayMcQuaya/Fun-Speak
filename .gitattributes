@@ -1,0 +1,6 @@
+* text=auto
+*.data binary
+*.wasm binary
+*.br binary
+*.js linguist-generated=true
+*.html linguist-generated=true 
